@@ -20,4 +20,4 @@ jobs:
         npm install
         bundle exec rspec
     container:
-      image: ruby:2.5.1p57
+      image: ruby:2.5.1
